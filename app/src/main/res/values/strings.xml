@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlarmGooya</string>
+    <string name="enter_a_title">Enter a title</string>
+    <string name="add_alarm">Add Alarm</string>
+    <string name="enter_a_description">Enter a description</string>
+    <string name="seperator">:</string>
+</resources>
